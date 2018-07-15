@@ -1936,7 +1936,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a2ffb8;
+  background: #e2ff39;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2803,9 +2803,6 @@ hr {
 }
 .use-motion .logo-line-after i {
   right: -100%;
-}
-.site-subtitle {
-  display: none;
 }
 .site-nav-toggle {
   position: static;
